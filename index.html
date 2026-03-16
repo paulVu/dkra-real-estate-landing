@@ -1,146 +1,510 @@
 <!doctype html>
 <html lang="vi">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The Emerald Golf View | Căn hộ cao cấp Thuận An Bình Dương</title>
-  <meta name="description" content="The Emerald Golf View - Căn hộ cao cấp mặt tiền Đại lộ Bình Dương, liền kề AEON Mall & VSIP 1. Đã có sổ hồng, nhận nhà ở ngay, tiện ích chuẩn 5 sao.">
-  <meta property="og:title" content="The Emerald Golf View">
-  <meta property="og:description" content="Sống chuẩn chuyên gia quốc tế - đầu tư dòng tiền bền vững tại lõi công nghiệp Bình Dương.">
-  <meta property="og:image" content="https://w.ladicdn.com/s1300x950/697b235403260b0013ca9cbe/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg">
-  <meta property="og:type" content="website">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Emerald Golf View | Redesign Landing Page</title>
+  <meta name="description" content="Landing page redesign cho The Emerald Golf View: định vị cao cấp, nhấn mạnh vị trí vàng Thuận An, tiện ích 5 sao và form nhận bảng giá nhanh." />
+  <meta property="og:title" content="The Emerald Golf View" />
+  <meta property="og:description" content="Tái thiết kế landing page theo phong cách cao cấp, rõ CTA, tối ưu mobile." />
+  <meta property="og:image" content="https://w.ladicdn.com/s1300x950/697b235403260b0013ca9cbe/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg" />
+  <meta property="og:type" content="website" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+
   <style>
-    :root{--bg:#071a22;--card:#0f2a35;--text:#e9f4f7;--muted:#9cc1cc;--brand:#4ec1b6;--gold:#e3c47a;--line:#1f4250}
-    *{box-sizing:border-box} html,body{margin:0;padding:0;font-family:'Be Vietnam Pro',system-ui,sans-serif;background:#06141b;color:var(--text)}
-    a{text-decoration:none;color:inherit}
-    .container{width:min(1120px,92vw);margin:0 auto}
-    .hero{min-height:92vh;display:grid;place-items:center;background:
-      linear-gradient(130deg,rgba(6,20,27,.92),rgba(6,20,27,.7)),
-      url('https://w.ladicdn.com/s1300x950/697b235403260b0013ca9cbe/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg') center/cover no-repeat;
-      border-bottom:1px solid var(--line)}
-    .hero-wrap{display:grid;grid-template-columns:1.15fr .85fr;gap:32px;align-items:center;padding:56px 0}
-    .pill{display:inline-flex;padding:8px 14px;border:1px solid #2a5a6d;border-radius:999px;font-weight:700;font-size:12px;letter-spacing:.5px;color:#a7e9e2;background:rgba(38,90,107,.18)}
-    h1{margin:14px 0 14px;font-size:clamp(34px,5vw,62px);line-height:1.05}
-    .accent{color:var(--brand)}
-    .lead{color:#cae2e9;line-height:1.75;font-size:17px;max-width:60ch}
-    .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:22px}
-    .stat{background:rgba(9,30,39,.78);border:1px solid #275063;padding:14px;border-radius:14px;text-align:center}
-    .stat b{display:block;font-size:22px;color:var(--gold)} .stat span{font-size:12px;color:#96b7c2}
-    .panel{background:rgba(9,30,39,.86);border:1px solid #2b5567;border-radius:18px;padding:22px;backdrop-filter:blur(5px)}
-    .panel h3{margin:0 0 6px;font-size:24px}.panel p{margin:0 0 16px;color:#bdd7df;font-size:14px}
-    .input{width:100%;padding:12px 13px;border-radius:11px;border:1px solid #345f70;background:#102a36;color:#e7f4f8;margin-bottom:10px}
-    .btn{width:100%;padding:13px;border:none;border-radius:12px;font-weight:800;background:linear-gradient(90deg,var(--brand),#73d8cf);color:#062126;cursor:pointer}
-    section{padding:74px 0;border-bottom:1px solid var(--line)}
-    .title{font-size:34px;margin:0 0 12px;text-align:center}.sub{color:var(--muted);text-align:center;max-width:860px;margin:0 auto 34px;line-height:1.8}
-    .grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.card{background:#0d2732;border:1px solid #1f4452;border-radius:14px;padding:18px}
-    .card h4{margin:0 0 8px;font-size:18px}.card p{margin:0;color:#a9cad4;line-height:1.7;font-size:14px}
-    .loc{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.loc .card{text-align:center}.loc b{display:block;color:var(--gold);font-size:24px;margin-bottom:4px}
-    .amen-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-    .amen{overflow:hidden;background:#0d2732;border:1px solid #1f4452;border-radius:14px}
-    .amen img{width:100%;height:190px;object-fit:cover;display:block}
-    .amen .txt{padding:13px}.amen h5{margin:0 0 6px;font-size:16px}.amen p{margin:0;color:#a9cad4;font-size:13px;line-height:1.6}
-    .cta{background:linear-gradient(130deg,#0c2430,#122f3d);text-align:center}.cta .box{max-width:860px;margin:auto}
-    .footer{padding:28px 0;text-align:center;color:#88aeb9;font-size:13px}
-    .sticky{position:fixed;left:12px;right:12px;bottom:12px;z-index:50;display:none}
-    .sticky a{display:block;text-align:center;background:#2dc4b7;color:#042024;padding:13px;border-radius:999px;font-weight:800;box-shadow:0 14px 30px rgba(21,115,108,.45)}
-    @media (max-width:980px){.hero-wrap{grid-template-columns:1fr}.stats{grid-template-columns:repeat(2,1fr)}.grid-3,.loc,.amen-grid{grid-template-columns:1fr 1fr}}
-    @media (max-width:640px){.grid-3,.loc,.amen-grid{grid-template-columns:1fr}.sticky{display:block} h1{font-size:38px}}
+    :root {
+      --bg: #06131a;
+      --bg-2: #0a212c;
+      --card: #0f2b37;
+      --line: #1d4b5c;
+      --text: #ecf7fa;
+      --muted: #9fc2ce;
+      --brand: #43c0b3;
+      --brand-2: #7fe0d8;
+      --gold: #e8c781;
+      --danger: #ff7d7d;
+      --radius: 18px;
+      --shadow: 0 18px 50px rgba(0, 0, 0, .35);
+      --container: min(1180px, 92vw);
+    }
+
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; font-family: "Be Vietnam Pro", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background: var(--bg); color: var(--text); }
+    img { max-width: 100%; display: block; }
+    a { color: inherit; text-decoration: none; }
+
+    .container { width: var(--container); margin: 0 auto; }
+    .section { padding: 78px 0; border-bottom: 1px solid var(--line); }
+    .section--alt { background: linear-gradient(180deg, rgba(9,26,34,.7), rgba(8,21,28,.9)); }
+
+    .topbar {
+      position: sticky; top: 0; z-index: 60;
+      backdrop-filter: blur(8px);
+      background: rgba(5, 16, 22, .76);
+      border-bottom: 1px solid rgba(38, 84, 101, .65);
+    }
+
+    .topbar-wrap {
+      height: 70px; display: flex; align-items: center; justify-content: space-between;
+    }
+
+    .brand { display: flex; gap: 10px; align-items: center; font-weight: 800; }
+    .brand-dot { width: 10px; height: 10px; border-radius: 999px; background: var(--brand); box-shadow: 0 0 0 6px rgba(67,192,179,.16); }
+    .brand small { display: block; font-size: 11px; letter-spacing: .5px; color: var(--muted); font-weight: 600; margin-top: 2px; }
+
+    .nav { display: flex; gap: 24px; color: #b4d1da; font-size: 14px; }
+    .nav a:hover { color: #fff; }
+
+    .btn {
+      border: none; border-radius: 12px; cursor: pointer;
+      font-weight: 800; letter-spacing: .3px;
+      transition: .2s transform ease, .2s filter ease;
+    }
+    .btn:hover { transform: translateY(-1px); filter: brightness(1.05); }
+    .btn--primary {
+      padding: 12px 18px;
+      color: #042028;
+      background: linear-gradient(90deg, var(--brand), var(--brand-2));
+      box-shadow: 0 8px 26px rgba(67, 192, 179, .38);
+    }
+    .btn--full { width: 100%; padding: 14px 16px; }
+    .btn--ghost { border: 1px solid #2f6577; color: #b9d7df; background: rgba(14, 42, 54, .6); padding: 11px 14px; }
+
+    .hero {
+      min-height: 90vh;
+      display: grid;
+      background:
+        linear-gradient(120deg, rgba(6,18,24,.94), rgba(6,18,24,.66) 56%, rgba(6,18,24,.86)),
+        url('https://w.ladicdn.com/s1300x950/697b235403260b0013ca9cbe/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg') center/cover no-repeat;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .hero-wrap {
+      width: var(--container); margin: 0 auto;
+      display: grid; grid-template-columns: 1.18fr .82fr; gap: 28px;
+      align-items: center; padding: 54px 0;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid #2c697d;
+      border-radius: 999px;
+      padding: 8px 14px;
+      font-size: 12px;
+      font-weight: 700;
+      color: #b4f0ea;
+      background: rgba(40, 98, 118, .2);
+      margin-bottom: 12px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(34px, 5vw, 66px);
+      line-height: 1.05;
+      letter-spacing: -.5px;
+      max-width: 13.5ch;
+    }
+
+    .gradient {
+      background: linear-gradient(120deg, #8cf3ec 0%, #43c0b3 45%, #e8c781 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .hero-lead { margin: 16px 0 0; color: #c2dbe3; max-width: 62ch; line-height: 1.8; font-size: 16px; }
+
+    .stats {
+      margin-top: 24px;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+    }
+
+    .stat {
+      background: rgba(11, 34, 44, .85);
+      border: 1px solid #265768;
+      border-radius: 14px;
+      padding: 14px 10px;
+      text-align: center;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
+    }
+    .stat b { display: block; font-size: 21px; color: var(--gold); margin-bottom: 4px; }
+    .stat span { color: #9fc1cc; font-size: 12px; }
+
+    .lead-card {
+      background: linear-gradient(180deg, rgba(12,36,47,.95), rgba(11,30,39,.95));
+      border: 1px solid #2d5e70;
+      border-radius: 20px;
+      box-shadow: var(--shadow);
+      padding: 20px;
+    }
+
+    .lead-card h3 { margin: 2px 0 8px; font-size: 27px; line-height: 1.1; }
+    .lead-card p { margin: 0 0 14px; color: #bcd8e0; font-size: 14px; }
+    .input, .select {
+      width: 100%;
+      border: 1px solid #355f70;
+      background: #102b37;
+      color: #eaf6f9;
+      border-radius: 12px;
+      padding: 12px 13px;
+      margin-bottom: 10px;
+      font: inherit;
+    }
+    .input::placeholder { color: #84a9b4; }
+
+    .trust {
+      margin-top: 12px;
+      display: flex; gap: 10px; flex-wrap: wrap;
+      font-size: 12px; color: #91b6c1;
+    }
+    .trust span { border: 1px solid #2b5566; border-radius: 999px; padding: 6px 10px; background: rgba(18,50,63,.6); }
+
+    .kicker { text-align: center; color: #9cc7d2; letter-spacing: .5px; font-size: 12px; font-weight: 700; text-transform: uppercase; margin-bottom: 8px; }
+    .title { margin: 0; text-align: center; font-size: clamp(30px, 4.2vw, 44px); }
+    .sub {
+      margin: 12px auto 34px;
+      text-align: center;
+      color: var(--muted);
+      max-width: 860px;
+      line-height: 1.8;
+      font-size: 15px;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .feature {
+      border: 1px solid #245466;
+      border-radius: 14px;
+      background: linear-gradient(180deg, rgba(15,43,55,.95), rgba(12,35,45,.95));
+      padding: 18px;
+    }
+    .feature h4 { margin: 0 0 8px; font-size: 18px; }
+    .feature p { margin: 0; color: #a4c7d1; line-height: 1.75; font-size: 14px; }
+
+    .distance-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+    }
+
+    .distance {
+      text-align: center;
+      border: 1px solid #295969;
+      border-radius: 14px;
+      background: #0c2531;
+      padding: 16px 12px;
+    }
+    .distance b { display: block; font-size: 25px; color: var(--gold); margin-bottom: 5px; }
+    .distance p { margin: 0; color: #a6c8d3; line-height: 1.65; font-size: 13px; }
+
+    .media-grid {
+      display: grid;
+      grid-template-columns: 1.3fr .7fr;
+      gap: 14px;
+      margin-top: 14px;
+    }
+
+    .media-main,
+    .media-sub {
+      border: 1px solid #275567;
+      border-radius: 14px;
+      overflow: hidden;
+      background: #102734;
+    }
+    .media-main img { height: 100%; width: 100%; object-fit: cover; }
+    .media-sub img { height: 242px; width: 100%; object-fit: cover; }
+
+    .amen-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+
+    .amen {
+      border: 1px solid #235163;
+      border-radius: 14px;
+      overflow: hidden;
+      background: #0c2531;
+    }
+    .amen img { width: 100%; height: 200px; object-fit: cover; }
+    .amen .txt { padding: 12px 13px 14px; }
+    .amen h5 { margin: 0 0 5px; font-size: 17px; }
+    .amen p { margin: 0; color: #a7c8d2; font-size: 13px; line-height: 1.65; }
+
+    .cta {
+      padding: 76px 0;
+      background:
+        radial-gradient(circle at 15% 0%, rgba(67,192,179,.24), transparent 35%),
+        radial-gradient(circle at 85% 100%, rgba(232,199,129,.2), transparent 38%),
+        linear-gradient(160deg, #0a202a, #0f2f3d);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .cta-box {
+      width: min(900px, 92vw);
+      margin: 0 auto;
+      text-align: center;
+      border: 1px solid #2c5b6d;
+      border-radius: 20px;
+      background: rgba(10,30,39,.72);
+      padding: 34px 26px;
+      box-shadow: var(--shadow);
+    }
+
+    .cta h2 { margin: 0 0 10px; font-size: clamp(28px, 4vw, 46px); }
+    .cta p { margin: 0 auto 18px; color: #b8d5de; max-width: 66ch; line-height: 1.8; }
+
+    .cta-actions {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .footer {
+      padding: 24px 0 36px;
+      text-align: center;
+      color: #82a8b5;
+      font-size: 13px;
+    }
+
+    .sticky-cta {
+      position: fixed;
+      left: 12px;
+      right: 12px;
+      bottom: 12px;
+      z-index: 70;
+      display: none;
+    }
+
+    .sticky-cta a {
+      display: block;
+      text-align: center;
+      border-radius: 999px;
+      background: linear-gradient(90deg, var(--brand), var(--brand-2));
+      color: #062127;
+      font-weight: 900;
+      padding: 14px;
+      box-shadow: 0 14px 34px rgba(67, 192, 179, .5);
+    }
+
+    .notice {
+      margin-top: 12px;
+      font-size: 12px;
+      color: #87aeb9;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 1020px) {
+      .hero-wrap { grid-template-columns: 1fr; }
+      .stats { grid-template-columns: repeat(2, 1fr); }
+      .grid-3, .amen-grid { grid-template-columns: 1fr 1fr; }
+      .distance-grid { grid-template-columns: 1fr 1fr; }
+      .media-grid { grid-template-columns: 1fr; }
+      .media-sub img { height: 230px; }
+    }
+
+    @media (max-width: 680px) {
+      .topbar-wrap { height: 62px; }
+      .nav { display: none; }
+      .grid-3, .amen-grid, .distance-grid { grid-template-columns: 1fr; }
+      .sticky-cta { display: block; }
+      .section { padding: 62px 0; }
+      h1 { max-width: 100%; }
+    }
   </style>
 </head>
 <body>
-  <header class="hero">
-    <div class="container hero-wrap">
-      <div>
-        <span class="pill">THE EMERALD GOLF VIEW · THUẬN AN, BÌNH DƯƠNG</span>
-        <h1>Nhận nhà ở ngay tại <span class="accent">tọa độ vàng</span> Đại lộ Bình Dương</h1>
-        <p class="lead">Dự án căn hộ cao cấp liền kề AEON Mall, đối diện VSIP 1. Pháp lý rõ ràng, đã có sổ hồng, phù hợp an cư cho chuyên gia và đầu tư khai thác dòng tiền dài hạn.</p>
-        <div class="stats">
-          <div class="stat"><b>2</b><span>Block căn hộ</span></div>
-          <div class="stat"><b>40</b><span>Tầng cao nhất</span></div>
-          <div class="stat"><b>770</b><span>Căn hộ</span></div>
-          <div class="stat"><b>8.627m²</b><span>Diện tích khuôn viên</span></div>
+  <header class="topbar">
+    <div class="container topbar-wrap">
+      <div class="brand">
+        <span class="brand-dot"></span>
+        <div>
+          The Emerald Golf View
+          <small>Thuận An · Bình Dương</small>
         </div>
       </div>
-      <aside class="panel" id="form">
-        <h3>Nhận bảng giá mới nhất</h3>
-        <p>Để lại thông tin, đội ngũ tư vấn liên hệ trong giờ làm việc.</p>
-        <form id="leadForm">
-          <input class="input" name="name" required placeholder="Họ và tên">
-          <input class="input" name="phone" required placeholder="Số điện thoại">
-          <select class="input" name="need" required>
-            <option value="">Nhu cầu quan tâm</option>
-            <option>Mua ở thực</option>
-            <option>Đầu tư cho thuê</option>
-            <option>Nhận bảng hàng & chính sách</option>
-          </select>
-          <button class="btn" type="submit">GỬI YÊU CẦU</button>
-        </form>
-      </aside>
+      <nav class="nav">
+        <a href="#vi-tri">Vị trí</a>
+        <a href="#tien-ich">Tiện ích</a>
+        <a href="#thu-vien">Hình ảnh</a>
+        <a href="#form">Nhận bảng giá</a>
+      </nav>
+      <a class="btn btn--primary" href="tel:0902729246">📞 0902 729 246</a>
     </div>
   </header>
 
-  <section>
+  <section class="hero">
+    <div class="hero-wrap">
+      <div>
+        <span class="hero-badge">ĐÃ CÓ SỔ HỒNG · NHẬN NHÀ Ở NGAY</span>
+        <h1>Không gian sống <span class="gradient">chuẩn chuyên gia quốc tế</span> ngay mặt tiền QL13</h1>
+        <p class="hero-lead">
+          Redesign theo hướng rõ thông điệp, rõ lợi ích, rõ CTA. The Emerald Golf View nằm tại lõi phát triển Thuận An,
+          liền kề AEON Mall và các khu công nghiệp lớn, phù hợp an cư lẫn đầu tư khai thác cho thuê bền vững.
+        </p>
+
+        <div class="stats">
+          <div class="stat"><b>2</b><span>Tòa tháp</span></div>
+          <div class="stat"><b>40</b><span>Tầng cao</span></div>
+          <div class="stat"><b>770</b><span>Căn hộ</span></div>
+          <div class="stat"><b>8.627m²</b><span>Quy mô</span></div>
+        </div>
+      </div>
+
+      <aside class="lead-card" id="form">
+        <h3>Nhận bảng giá<br />& chính sách mới nhất</h3>
+        <p>Đội ngũ tư vấn liên hệ nhanh trong giờ làm việc.</p>
+
+        <form id="leadForm">
+          <input class="input" name="name" placeholder="Họ và tên" required />
+          <input class="input" name="phone" placeholder="Số điện thoại" required />
+          <select class="select" name="need" required>
+            <option value="">Nhu cầu quan tâm</option>
+            <option>Mua ở thực</option>
+            <option>Đầu tư cho thuê</option>
+            <option>Shophouse / thương mại</option>
+            <option>Bảng giá & giỏ hàng</option>
+          </select>
+          <button class="btn btn--primary btn--full" type="submit">GỬI YÊU CẦU NGAY</button>
+        </form>
+
+        <div class="trust">
+          <span>✓ Tư vấn 1:1</span>
+          <span>✓ Hỗ trợ xem nhà mẫu</span>
+          <span>✓ Cập nhật ưu đãi theo ngày</span>
+        </div>
+
+        <p class="notice">Bằng việc gửi form, bạn đồng ý để đội ngũ dự án liên hệ tư vấn sản phẩm phù hợp.</p>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section section--alt">
     <div class="container">
-      <h2 class="title">3 lý do xuống tiền thời điểm này</h2>
-      <p class="sub">Bộ ba yếu tố tạo lợi thế cạnh tranh cho The Emerald Golf View: pháp lý sẵn sàng, vị trí lõi hạ tầng và nhu cầu thuê thực từ cộng đồng chuyên gia tại các KCN lân cận.</p>
+      <p class="kicker">Điểm mạnh cốt lõi</p>
+      <h2 class="title">Vì sao khách chọn Emerald Golf View?</h2>
+      <p class="sub">Bài toán ở thực và đầu tư đều rõ: pháp lý tốt, vị trí tốt, tệp khách thuê tốt.</p>
+
       <div class="grid-3">
-        <article class="card"><h4>✅ Nhận nhà ngay, rủi ro thấp</h4><p>Không phải chờ tiến độ. Khách hàng có thể xem căn thực tế, hoàn tất giao dịch và triển khai khai thác ngay.</p></article>
-        <article class="card"><h4>📈 Đón trục tăng trưởng QL13</h4><p>Mặt tiền Đại lộ Bình Dương - tuyến kết nối TP.HCM và trung tâm công nghiệp Bình Dương, hưởng lợi trực tiếp từ nâng cấp hạ tầng.</p></article>
-        <article class="card"><h4>💼 Dòng tiền từ chuyên gia</h4><p>Liền kề VSIP 1, Việt Hương, Sóng Thần - khu vực có nhu cầu thuê căn hộ chất lượng cao liên tục và ổn định.</p></article>
+        <article class="feature">
+          <h4>🏡 Sản phẩm đã hình thành</h4>
+          <p>Không chờ tiến độ. Có thể kiểm tra chất lượng thực tế, nhận nhà và vào ở ngay sau khi hoàn tất thủ tục.</p>
+        </article>
+        <article class="feature">
+          <h4>📍 Vị trí lõi phát triển</h4>
+          <p>Nằm trên trục Đại lộ Bình Dương, gần trung tâm thương mại và các cụm tiện ích cấp vùng của Thuận An.</p>
+        </article>
+        <article class="feature">
+          <h4>💸 Tệp thuê ổn định</h4>
+          <p>Hưởng lợi từ nhu cầu ở thực của chuyên gia, kỹ sư và quản lý làm việc tại VSIP 1, Việt Hương, Sóng Thần.</p>
+        </article>
       </div>
     </div>
   </section>
 
-  <section>
+  <section class="section" id="vi-tri">
     <div class="container">
-      <h2 class="title">Kết nối ngoại khu nhanh chóng</h2>
-      <p class="sub">Vị trí giúp cư dân rút ngắn thời gian di chuyển và tăng tính thanh khoản cho tài sản.</p>
-      <div class="loc">
-        <div class="card"><b>1 phút</b><p>AEON Mall, VSIP 1, Sân golf Sông Bé</p></div>
-        <div class="card"><b>3-5 phút</b><p>Lotte Mart, BV Quốc tế Becamex, BV Hạnh Phúc</p></div>
-        <div class="card"><b>10-15 phút</b><p>Trung tâm hành chính mới, nút giao Bình Phước</p></div>
-        <div class="card"><b>20-30 phút</b><p>Kết nối TP.HCM qua QL13 - Phạm Văn Đồng</p></div>
+      <p class="kicker">Kết nối vùng</p>
+      <h2 class="title">Thời gian di chuyển ấn tượng</h2>
+      <p class="sub">Giá trị bất động sản tăng bền thường đi cùng hạ tầng và tiện ích vận hành thật trong bán kính gần.</p>
+
+      <div class="distance-grid">
+        <div class="distance"><b>1 phút</b><p>AEON Mall, VSIP 1, Sân golf Sông Bé</p></div>
+        <div class="distance"><b>3-5 phút</b><p>BV Quốc tế Becamex, Lotte Mart, trường quốc tế</p></div>
+        <div class="distance"><b>10-15 phút</b><p>TT Hành chính Bình Dương, TP Thủ Đức kết nối nhanh</p></div>
+        <div class="distance"><b>20-30 phút</b><p>Di chuyển vào TP.HCM qua QL13 - Phạm Văn Đồng</p></div>
+      </div>
+
+      <div class="media-grid" id="thu-vien">
+        <figure class="media-main">
+          <img src="https://w.ladicdn.com/s1300x950/697b235403260b0013ca9cbe/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg" alt="Toàn cảnh dự án The Emerald Golf View" />
+        </figure>
+        <div style="display:grid; gap:14px;">
+          <figure class="media-sub"><img src="https://w.ladicdn.com/s900x750/697b235403260b0013ca9cbe/landing-page-pc-export-26-20260130083543-cljpf.jpg" alt="Sảnh đón sang trọng" /></figure>
+          <figure class="media-sub"><img src="https://w.ladicdn.com/s900x750/697b235403260b0013ca9cbe/landing-page-pc-export-28-20260130083804-zm0mr.jpg" alt="Không gian sống cao cấp" /></figure>
+        </div>
       </div>
     </div>
   </section>
 
-  <section>
+  <section class="section section--alt" id="tien-ich">
     <div class="container">
-      <h2 class="title">Tiện ích nội khu chuẩn 5 sao</h2>
-      <p class="sub">Thiết kế theo hướng “all-in-one” phục vụ cả nhu cầu sống, vận động và thư giãn mỗi ngày.</p>
+      <p class="kicker">Nội khu cao cấp</p>
+      <h2 class="title">Tiện ích chuẩn nghỉ dưỡng mỗi ngày</h2>
+      <p class="sub">Thiết kế theo nhịp sống thành thị hiện đại, ưu tiên trải nghiệm sống - làm việc - vận động trong cùng một hệ sinh thái.</p>
+
       <div class="amen-grid">
-        <article class="amen"><img src="https://w.ladicdn.com/s550x450/697b235403260b0013ca9cbe/landing-page-pc-export-29-20260130084014-eemv_.jpg" alt="Hồ bơi vô cực"><div class="txt"><h5>Hồ bơi vô cực</h5><p>Không gian thư giãn với tầm nhìn thoáng, tạo trải nghiệm nghỉ dưỡng tại gia.</p></div></article>
-        <article class="amen"><img src="https://w.ladicdn.com/s550x450/697b235403260b0013ca9cbe/landing-page-pc-export-31-20260130084401-dzirf.jpg" alt="Gym & Yoga"><div class="txt"><h5>Gym & Yoga</h5><p>Khu vận động hiện đại giúp duy trì sức khỏe và cân bằng nhịp sống.</p></div></article>
-        <article class="amen"><img src="https://w.ladicdn.com/s550x450/697b235403260b0013ca9cbe/landing-page-pc-export-34-20260130084742-fq7pr.jpg" alt="Khu vui chơi trẻ em"><div class="txt"><h5>Khu vui chơi trẻ em</h5><p>Không gian an toàn, hỗ trợ phát triển thể chất cho cư dân nhí.</p></div></article>
+        <article class="amen">
+          <img src="https://w.ladicdn.com/s600x500/697b235403260b0013ca9cbe/landing-page-pc-export-29-20260130084014-eemv_.jpg" alt="Hồ bơi tràn" />
+          <div class="txt">
+            <h5>Hồ bơi tràn & lounge</h5>
+            <p>Khu thư giãn mở, phù hợp cư dân yêu thích phong cách sống resort ngay trong nội khu.</p>
+          </div>
+        </article>
+        <article class="amen">
+          <img src="https://w.ladicdn.com/s600x500/697b235403260b0013ca9cbe/landing-page-pc-export-31-20260130084401-dzirf.jpg" alt="Gym Yoga" />
+          <div class="txt">
+            <h5>Gym & Yoga studio</h5>
+            <p>Không gian vận động chất lượng, tăng giá trị sống khỏe cho cộng đồng cư dân trẻ và chuyên gia.</p>
+          </div>
+        </article>
+        <article class="amen">
+          <img src="https://w.ladicdn.com/s600x500/697b235403260b0013ca9cbe/landing-page-pc-export-34-20260130084742-fq7pr.jpg" alt="Khu vui chơi trẻ em" />
+          <div class="txt">
+            <h5>Khu trẻ em & công viên</h5>
+            <p>An toàn, thoáng, thân thiện cho gia đình nhiều thế hệ với không gian sinh hoạt cộng đồng.</p>
+          </div>
+        </article>
       </div>
     </div>
   </section>
 
-  <section class="cta">
-    <div class="container box">
-      <h2 class="title">Sẵn sàng nhận bảng hàng & ưu đãi?</h2>
-      <p class="sub">Gọi ngay <b>0902 729 246</b> hoặc để lại thông tin để nhận chính sách mới nhất theo từng loại căn.</p>
-      <p><a class="btn" style="display:inline-block;max-width:360px" href="tel:0902729246">📞 GỌI TƯ VẤN NGAY</a></p>
+  <section class="cta" id="contact">
+    <div class="cta-box">
+      <h2>Sẵn sàng nhận giỏ hàng đẹp hôm nay?</h2>
+      <p>Gọi trực tiếp để nhận bảng giá cập nhật và phương án tài chính phù hợp theo nhu cầu ở thực hoặc đầu tư khai thác.</p>
+      <div class="cta-actions">
+        <a class="btn btn--primary" href="tel:0902729246">📞 Gọi ngay 0902 729 246</a>
+        <a class="btn btn--ghost" href="#form">📩 Để lại thông tin tư vấn</a>
+      </div>
     </div>
   </section>
 
   <footer class="footer">
-    <div class="container">© The Emerald Golf View Landing · Build by DKRA Team</div>
+    <div class="container">© 2026 The Emerald Golf View · Landing redesign</div>
   </footer>
 
-  <div class="sticky"><a href="#form">Nhận bảng giá ngay</a></div>
+  <div class="sticky-cta">
+    <a href="#form">Nhận bảng giá & ưu đãi ngay</a>
+  </div>
 
   <script>
-    document.getElementById('leadForm').addEventListener('submit', function(e){
+    const form = document.getElementById('leadForm');
+    form?.addEventListener('submit', (e) => {
       e.preventDefault();
-      const data = Object.fromEntries(new FormData(this).entries());
-      const text = encodeURIComponent(`Lead Emerald Golf View\nHọ tên: ${data.name}\nSĐT: ${data.phone}\nNhu cầu: ${data.need}`);
-      window.location.href = `mailto:Salesadmin@houze.vn?subject=Lead Emerald Golf View&body=${text}`;
+      const data = Object.fromEntries(new FormData(form).entries());
+      const body = encodeURIComponent([
+        'Lead từ landing The Emerald Golf View',
+        `Họ tên: ${data.name || ''}`,
+        `SĐT: ${data.phone || ''}`,
+        `Nhu cầu: ${data.need || ''}`
+      ].join('\n'));
+
+      window.location.href = `mailto:Salesadmin@houze.vn?subject=Lead%20Emerald%20Golf%20View&body=${body}`;
       alert('Cảm ơn bạn! Thông tin đã sẵn sàng gửi qua email.');
-      this.reset();
+      form.reset();
     });
   </script>
 </body>
