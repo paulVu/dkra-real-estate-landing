@@ -105,8 +105,8 @@ a{text-decoration:none;color:inherit}
 .bullet-list{margin:12px 0 0;padding-left:18px;color:#666;line-height:1.8;font-size:13px}
 .own-image img{width:100%;border:1px solid #e8e8e8}
 
-.full-center-img img{max-width:860px;width:100%;margin:0 auto}
-.plan-head{margin-top:20px}
+.full-center-img img{max-width:860px;width:100%;margin:0 auto;border-radius:8px;box-shadow:0 8px 20px rgba(0,0,0,.08)}
+.plan-head{margin-top:26px}
 .gallery-3{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
 .gallery-3.plans img{height:190px;object-fit:contain;background:#fff;border:1px solid #ececec}
 
@@ -152,6 +152,41 @@ a{text-decoration:none;color:inherit}
   .thumb-row,.gallery-3,.feature-grid.six,.milestones,.benefit-row.four,.experience-grid.two-col,.partner-logos{grid-template-columns:1fr}
   .thumb-row img,.gallery-3.equal img,.gallery-3.plans img{height:220px}
   .experience-grid article,.news-grid article{grid-template-columns:1fr}
+  .news-grid img,.map-pair img{height:220px}
+}
+-pair img{height:220px}
+}
+ap-pair img{height:220px}
+}
+-pair img{height:220px}
+}
+x}
+}
+ght:220px}
+}
+x}
+}
+}
+x}
+}
+
+}
+x}
+}
+}
+x}
+}
+}
+x}
+}
+ght:220px}
+}
+x}
+}
+}
+x}
+}
+lumns:1fr}
   .news-grid img,.map-pair img{height:220px}
 }
 -pair img{height:220px}
