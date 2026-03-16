@@ -21,7 +21,7 @@ a{text-decoration:none;color:inherit}
 
 .hero{background:#f2f2f2}
 .hero-wrap{display:grid;grid-template-columns:44% 56%;min-height:340px}
-.hero-image{background:url('../assets/images/landing-page-mobile-01-20260304101009-fw-ml.jpg') center/cover no-repeat}
+.hero-image{background:url('../assets/images/landing-page-pc-export-58-20260130093013-cd0qz.jpg') center/cover no-repeat}
 .hero-copy{position:relative;display:flex;flex-direction:column;justify-content:center;align-items:center;background:#f4f4f4;overflow:hidden}
 .hero-copy::before{content:"";position:absolute;inset:0;background:url('../assets/images/landing-page-pc-export-35-20260130083347-zr-vk-6.png') center/cover no-repeat;opacity:.38;mix-blend-mode:multiply}
 .deco{position:absolute;top:28px;right:28px;width:200px;opacity:.18;display:none}
