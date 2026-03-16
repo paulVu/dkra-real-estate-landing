@@ -1,0 +1,948 @@
+[
+  {
+    "source": "https://w.ladicdn.com/ladiui/icons/ldicon-discount-coupon.svg",
+    "local": "assets/images/ldicon-discount-coupon.svg",
+    "bytes": 1727,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/ladiui/icons/new-ldicon-arrow-left.svg",
+    "local": "assets/images/new-ldicon-arrow-left.svg",
+    "bytes": 480,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/v2/source/builder/svg/menu_icon1.svg?v=1.0",
+    "local": "assets/images/menu_icon1.svg",
+    "bytes": 706,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/v2/source/builder/svg/menu_icon2.svg?v=1.0",
+    "local": "assets/images/menu_icon2.svg",
+    "bytes": 855,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/v2/source/builder/svg/menu_icon3.svg?v=1.0",
+    "local": "assets/images/menu_icon3.svg",
+    "bytes": 2406,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/v2/source/builder/svg/menu_icon4.svg?v=1.0",
+    "local": "assets/images/menu_icon4.svg",
+    "bytes": 1226,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x650/697b235403260b0013ca9cbe/-8k8pu8y20260130074313.jpg",
+    "local": "assets/images/-8k8pu8y20260130074313.jpg",
+    "bytes": 138026,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s650x800/697b235403260b0013ca9cbe/z7483596052149_06b55a5fcc838b4f75bc89fa1cae9afb-20260130080839-gzzky.jpg",
+    "local": "assets/images/z7483596052149_06b55a5fcc838b4f75bc89fa1cae9afb-20260130080839-gzzky.jpg",
+    "bytes": 6114,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-02-20260130035915-ev6_i.png",
+    "local": "assets/images/landing-page-pc-export-02-20260130035915-ev6_i.png",
+    "bytes": 3937,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x350/697b235403260b0013ca9cbe/landing-page-pc-export-07-20260130070125-umjw_.png",
+    "local": "assets/images/landing-page-pc-export-07-20260130070125-umjw_.png",
+    "bytes": 2306,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s700x400/697b235403260b0013ca9cbe/landing-page-pc-export-13-20260130074707-jr1gy.png",
+    "local": "assets/images/landing-page-pc-export-13-20260130074707-jr1gy.png",
+    "bytes": 15886,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s350x350/697b235403260b0013ca9cbe/landing-page-pc-export-14-20260130074900-2oxhs.png",
+    "local": "assets/images/landing-page-pc-export-14-20260130074900-2oxhs.png",
+    "bytes": 1330,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s350x350/697b235403260b0013ca9cbe/landing-page-pc-export-15-20260130075002-uq2m7.png",
+    "local": "assets/images/landing-page-pc-export-15-20260130075002-uq2m7.png",
+    "bytes": 1393,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s350x350/697b235403260b0013ca9cbe/landing-page-pc-export-16-20260130075002-p5a4p.png",
+    "local": "assets/images/landing-page-pc-export-16-20260130075002-p5a4p.png",
+    "bytes": 1045,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s350x350/697b235403260b0013ca9cbe/landing-page-pc-export-17-20260130075002-d2ovn.png",
+    "local": "assets/images/landing-page-pc-export-17-20260130075002-d2ovn.png",
+    "bytes": 1222,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x400/697b235403260b0013ca9cbe/landing-page-pc-export-21-20260130081119-imty1.png",
+    "local": "assets/images/landing-page-pc-export-21-20260130081119-imty1.png",
+    "bytes": 15006,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x400/697b235403260b0013ca9cbe/landing-page-pc-export-22-20260130081428-plip7.png",
+    "local": "assets/images/landing-page-pc-export-22-20260130081428-plip7.png",
+    "bytes": 23737,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x350/697b235403260b0013ca9cbe/landing-page-pc-export-37-20260130085201-sm3kc.png",
+    "local": "assets/images/landing-page-pc-export-37-20260130085201-sm3kc.png",
+    "bytes": 12377,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s700x500/697b235403260b0013ca9cbe/landing-page-pc-export-47-20260130091831-b-xym.png",
+    "local": "assets/images/landing-page-pc-export-47-20260130091831-b-xym.png",
+    "bytes": 134148,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s700x500/697b235403260b0013ca9cbe/landing-page-pc-export-48-20260130092014-rrt2j.png",
+    "local": "assets/images/landing-page-pc-export-48-20260130092014-rrt2j.png",
+    "bytes": 132118,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s700x500/697b235403260b0013ca9cbe/landing-page-pc-export-49-20260130092235-8viax.png",
+    "local": "assets/images/landing-page-pc-export-49-20260130092235-8viax.png",
+    "bytes": 145469,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s700x500/697b235403260b0013ca9cbe/landing-page-pc-export-50-20260130092308-n8h8c.png",
+    "local": "assets/images/landing-page-pc-export-50-20260130092308-n8h8c.png",
+    "bytes": 165718,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x350/697b235403260b0013ca9cbe/landing-page-pc-export-69-20260130094649-cdu5x.png",
+    "local": "assets/images/landing-page-pc-export-69-20260130094649-cdu5x.png",
+    "bytes": 3653,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x350/697b235403260b0013ca9cbe/landing-page-pc-export-72-20260130095221-pn1wb.png",
+    "local": "assets/images/landing-page-pc-export-72-20260130095221-pn1wb.png",
+    "bytes": 2402,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x350/697b235403260b0013ca9cbe/landing-page-pc-export-73-20260130095356-yrucg.png",
+    "local": "assets/images/landing-page-pc-export-73-20260130095356-yrucg.png",
+    "bytes": 1506,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s350x350/697b235403260b0013ca9cbe/landing-page-pc-export-71-20260130095453--pvty.png",
+    "local": "assets/images/landing-page-pc-export-71-20260130095453--pvty.png",
+    "bytes": 5822,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x350/697b235403260b0013ca9cbe/landing-page-pc-export-70-20260130095557-n1qnj.png",
+    "local": "assets/images/landing-page-pc-export-70-20260130095557-n1qnj.png",
+    "bytes": 2909,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x350/697b235403260b0013ca9cbe/landing-page-pc-export-76-20260227033349-ku4ou.png",
+    "local": "assets/images/landing-page-pc-export-76-20260227033349-ku4ou.png",
+    "bytes": 1727,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s350x350/697b235403260b0013ca9cbe/landing-page-mobile-03-20260227045743-yj2rs.png",
+    "local": "assets/images/landing-page-mobile-03-20260227045743-yj2rs.png",
+    "bytes": 1177,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s350x350/697b235403260b0013ca9cbe/landing-page-pc-export-18-20260130075002-hnazq.png",
+    "local": "assets/images/landing-page-pc-export-18-20260130075002-hnazq.png",
+    "bytes": 1198,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s350x350/697b235403260b0013ca9cbe/landing-page-pc-export-19-20260130075002-keiwm.png",
+    "local": "assets/images/landing-page-pc-export-19-20260130075002-keiwm.png",
+    "bytes": 1549,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x350/697b235403260b0013ca9cbe/logo-ngan-hang-01-20260227084108-zqyui.png",
+    "local": "assets/images/logo-ngan-hang-01-20260227084108-zqyui.png",
+    "bytes": 6151,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x350/697b235403260b0013ca9cbe/logo-ngan-hang-02-20260227084202-zycgq.png",
+    "local": "assets/images/logo-ngan-hang-02-20260227084202-zycgq.png",
+    "bytes": 7210,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x350/697b235403260b0013ca9cbe/logo-ngan-hang-03-20260227084911-4lj2a.png",
+    "local": "assets/images/logo-ngan-hang-03-20260227084911-4lj2a.png",
+    "bytes": 5821,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s650x600/697b235403260b0013ca9cbe/landing-page-pc-export-43-20260130091114-vzijk.jpg",
+    "local": "assets/images/landing-page-pc-export-43-20260130091114-vzijk.jpg",
+    "bytes": 129515,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1300x950/697b235403260b0013ca9cbe/landing-page-pc-export-75-20260130095828-jvay0.jpg",
+    "local": "assets/images/landing-page-pc-export-75-20260130095828-jvay0.jpg",
+    "bytes": 597451,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1300x750/697b235403260b0013ca9cbe/landing-page-pc-export-36-20260130084933-vislc.jpg",
+    "local": "assets/images/landing-page-pc-export-36-20260130084933-vislc.jpg",
+    "bytes": 91465,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1300x450/697b235403260b0013ca9cbe/z7483595991813_ba76aaca526fa7ca5b99c1a7de260879-20260130080952-bcmja.jpg",
+    "local": "assets/images/z7483595991813_ba76aaca526fa7ca5b99c1a7de260879-20260130080952-bcmja.jpg",
+    "bytes": 7324,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1300x950/697b235403260b0013ca9cbe/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg",
+    "local": "assets/images/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg",
+    "bytes": 31412,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x350/697b235403260b0013ca9cbe/landing-page-pc-export-08-20260130070335-nvxo5.png",
+    "local": "assets/images/landing-page-pc-export-08-20260130070335-nvxo5.png",
+    "bytes": 3455,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s800x400/697b235403260b0013ca9cbe/landing-page-pc-export-09-20260130073334-co9_o.png",
+    "local": "assets/images/landing-page-pc-export-09-20260130073334-co9_o.png",
+    "bytes": 21742,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s600x500/697b235403260b0013ca9cbe/landing-page-pc-export-10-20260130073811-q_s6x.jpg",
+    "local": "assets/images/landing-page-pc-export-10-20260130073811-q_s6x.jpg",
+    "bytes": 65684,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s600x500/697b235403260b0013ca9cbe/landing-page-pc-export-11-20260130073839-g-clk.jpg",
+    "local": "assets/images/landing-page-pc-export-11-20260130073839-g-clk.jpg",
+    "bytes": 99362,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s600x500/697b235403260b0013ca9cbe/landing-page-pc-export-12-20260130073849-d7yw8.jpg",
+    "local": "assets/images/landing-page-pc-export-12-20260130073849-d7yw8.jpg",
+    "bytes": 62975,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s900x750/697b235403260b0013ca9cbe/landing-page-pc-export-20-20260130080533-i2o5j.png",
+    "local": "assets/images/landing-page-pc-export-20-20260130080533-i2o5j.png",
+    "bytes": 203007,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s600x750/697b235403260b0013ca9cbe/z7483596052149_06b55a5fcc838b4f75bc89fa1cae9afb-20260130080839-gzzky.jpg",
+    "local": "assets/images/z7483596052149_06b55a5fcc838b4f75bc89fa1cae9afb-20260130080839-gzzky-2.jpg",
+    "bytes": 6114,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1300x350/697b235403260b0013ca9cbe/landing-page-pc-export-27-20260130082200-45uzb.png",
+    "local": "assets/images/landing-page-pc-export-27-20260130082200-45uzb.png",
+    "bytes": 16581,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x450/697b235403260b0013ca9cbe/landing-page-pc-export-23-20260130082337-k3z0o.png",
+    "local": "assets/images/landing-page-pc-export-23-20260130082337-k3z0o.png",
+    "bytes": 53440,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x450/697b235403260b0013ca9cbe/landing-page-pc-export-24-20260130082821-dxpgk.png",
+    "local": "assets/images/landing-page-pc-export-24-20260130082821-dxpgk.png",
+    "bytes": 46286,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x450/697b235403260b0013ca9cbe/landing-page-pc-export-25-20260130082827-mvwhw.png",
+    "local": "assets/images/landing-page-pc-export-25-20260130082827-mvwhw.png",
+    "bytes": 49404,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x450/697b235403260b0013ca9cbe/landing-page-pc-export-26-20260130082830-bxaah.png",
+    "local": "assets/images/landing-page-pc-export-26-20260130082830-bxaah.png",
+    "bytes": 43075,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s900x1100/697b235403260b0013ca9cbe/landing-page-pc-export-35-20260130083347-zr-vk.png",
+    "local": "assets/images/landing-page-pc-export-35-20260130083347-zr-vk.png",
+    "bytes": 1183672,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1200x1100/697b235403260b0013ca9cbe/landing-page-pc-export-35-20260130083347-zr-vk.png",
+    "local": "assets/images/landing-page-pc-export-35-20260130083347-zr-vk-2.png",
+    "bytes": 1183672,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s800x400/697b235403260b0013ca9cbe/landing-page-pc-export-28-20260130083652-tlzr2.png",
+    "local": "assets/images/landing-page-pc-export-28-20260130083652-tlzr2.png",
+    "bytes": 19631,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x450/697b235403260b0013ca9cbe/landing-page-pc-export-29-20260130084014-eemv_.jpg",
+    "local": "assets/images/landing-page-pc-export-29-20260130084014-eemv_.jpg",
+    "bytes": 49051,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x450/697b235403260b0013ca9cbe/landing-page-pc-export-30-20260130084205-aj6cv.jpg",
+    "local": "assets/images/landing-page-pc-export-30-20260130084205-aj6cv.jpg",
+    "bytes": 51671,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x450/697b235403260b0013ca9cbe/landing-page-pc-export-31-20260130084401-dzirf.jpg",
+    "local": "assets/images/landing-page-pc-export-31-20260130084401-dzirf.jpg",
+    "bytes": 57493,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x450/697b235403260b0013ca9cbe/landing-page-pc-export-32-20260130084452-omweb.jpg",
+    "local": "assets/images/landing-page-pc-export-32-20260130084452-omweb.jpg",
+    "bytes": 54760,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x450/697b235403260b0013ca9cbe/landing-page-pc-export-33-20260130084620-2poyk.jpg",
+    "local": "assets/images/landing-page-pc-export-33-20260130084620-2poyk.jpg",
+    "bytes": 59287,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x450/697b235403260b0013ca9cbe/landing-page-pc-export-34-20260130084742-fq7pr.jpg",
+    "local": "assets/images/landing-page-pc-export-34-20260130084742-fq7pr.jpg",
+    "bytes": 36163,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-38-20260130085924-8u5-a.jpg",
+    "local": "assets/images/landing-page-pc-export-38-20260130085924-8u5-a.jpg",
+    "bytes": 62445,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-39-20260130085924-j5vmn.jpg",
+    "local": "assets/images/landing-page-pc-export-39-20260130085924-j5vmn.jpg",
+    "bytes": 45815,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-40-20260130085937-y9gly.jpg",
+    "local": "assets/images/landing-page-pc-export-40-20260130085937-y9gly.jpg",
+    "bytes": 37755,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-41-20260130085924-k1tub.jpg",
+    "local": "assets/images/landing-page-pc-export-41-20260130085924-k1tub.jpg",
+    "bytes": 57191,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1300x900/697b235403260b0013ca9cbe/landing-page-pc-export-35-20260130083347-zr-vk.png",
+    "local": "assets/images/landing-page-pc-export-35-20260130083347-zr-vk-3.png",
+    "bytes": 864701,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x450/697b235403260b0013ca9cbe/landing-page-pc-export-42-20260130091030-xenys.png",
+    "local": "assets/images/landing-page-pc-export-42-20260130091030-xenys.png",
+    "bytes": 39672,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1100x1100/697b235403260b0013ca9cbe/landing-page-pc-export-45-20260130091503-7ad6-.jpg",
+    "local": "assets/images/landing-page-pc-export-45-20260130091503-7ad6-.jpg",
+    "bytes": 424180,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x400/697b235403260b0013ca9cbe/landing-page-pc-export-44-20260130091621-_jrvc.png",
+    "local": "assets/images/landing-page-pc-export-44-20260130091621-_jrvc.png",
+    "bytes": 23717,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x400/697b235403260b0013ca9cbe/landing-page-pc-export-46-20260130091759-c9nqv.png",
+    "local": "assets/images/landing-page-pc-export-46-20260130091759-c9nqv.png",
+    "bytes": 13127,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1300x650/697b235403260b0013ca9cbe/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg",
+    "local": "assets/images/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm-2.jpg",
+    "bytes": 15219,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x400/697b235403260b0013ca9cbe/landing-page-pc-export-51-20260130092503-gu_gq.png",
+    "local": "assets/images/landing-page-pc-export-51-20260130092503-gu_gq.png",
+    "bytes": 4325,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-53-20260130092637-gpxie.jpg",
+    "local": "assets/images/landing-page-pc-export-53-20260130092637-gpxie.jpg",
+    "bytes": 135808,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-52-20260130092637-lnspt.jpg",
+    "local": "assets/images/landing-page-pc-export-52-20260130092637-lnspt.jpg",
+    "bytes": 121830,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-54-20260130092654-wthqg.jpg",
+    "local": "assets/images/landing-page-pc-export-54-20260130092654-wthqg.jpg",
+    "bytes": 133294,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x400/697b235403260b0013ca9cbe/landing-page-pc-export-55-20260130092801-xjyfl.png",
+    "local": "assets/images/landing-page-pc-export-55-20260130092801-xjyfl.png",
+    "bytes": 3428,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-56-20260130092918-whqjy.jpg",
+    "local": "assets/images/landing-page-pc-export-56-20260130092918-whqjy.jpg",
+    "bytes": 110001,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-57-20260130092940-oyvux.jpg",
+    "local": "assets/images/landing-page-pc-export-57-20260130092940-oyvux.jpg",
+    "bytes": 91466,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-58-20260130093013-cd0qz.jpg",
+    "local": "assets/images/landing-page-pc-export-58-20260130093013-cd0qz.jpg",
+    "bytes": 121035,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x400/697b235403260b0013ca9cbe/landing-page-pc-export-59-20260130093041-qvyvo.png",
+    "local": "assets/images/landing-page-pc-export-59-20260130093041-qvyvo.png",
+    "bytes": 3829,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-62-20260130093126-wi8xl.jpg",
+    "local": "assets/images/landing-page-pc-export-62-20260130093126-wi8xl.jpg",
+    "bytes": 79302,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-61-20260130093126-ljgu8.jpg",
+    "local": "assets/images/landing-page-pc-export-61-20260130093126-ljgu8.jpg",
+    "bytes": 78358,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-60-20260130093126-8eln9.jpg",
+    "local": "assets/images/landing-page-pc-export-60-20260130093126-8eln9.jpg",
+    "bytes": 76949,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x400/697b235403260b0013ca9cbe/landing-page-pc-export-63-20260130093249-pn9d8.png",
+    "local": "assets/images/landing-page-pc-export-63-20260130093249-pn9d8.png",
+    "bytes": 16554,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x600/697b235403260b0013ca9cbe/landing-page-pc-export-64-20260130093327-_ofps.jpg",
+    "local": "assets/images/landing-page-pc-export-64-20260130093327-_ofps.jpg",
+    "bytes": 86642,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x600/697b235403260b0013ca9cbe/landing-page-pc-export-65-20260130093527-gm-8z.jpg",
+    "local": "assets/images/landing-page-pc-export-65-20260130093527-gm-8z.jpg",
+    "bytes": 73627,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-66-20260130093754-b1wir.jpg",
+    "local": "assets/images/landing-page-pc-export-66-20260130093754-b1wir.jpg",
+    "bytes": 94655,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x550/697b235403260b0013ca9cbe/landing-page-pc-export-67-20260130093903-7zavw.jpg",
+    "local": "assets/images/landing-page-pc-export-67-20260130093903-7zavw.jpg",
+    "bytes": 68043,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1300x700/697b235403260b0013ca9cbe/landing-page-pc-export-68-20260130094019-pzpqr.jpg",
+    "local": "assets/images/landing-page-pc-export-68-20260130094019-pzpqr.jpg",
+    "bytes": 287912,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1250x900/697b235403260b0013ca9cbe/landing-page-mobile-01-20260304101009-fw-ml.jpg",
+    "local": "assets/images/landing-page-mobile-01-20260304101009-fw-ml.jpg",
+    "bytes": 205153,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s950x800/697b235403260b0013ca9cbe/landing-page-mobile-02-20260304101100-ehuza.jpg",
+    "local": "assets/images/landing-page-mobile-02-20260304101100-ehuza.jpg",
+    "bytes": 260416,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s449x462/57b167c9ca57d39c18a1c57c/fopr.jpg",
+    "local": "assets/images/fopr.jpg",
+    "bytes": 5925,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x600/697b235403260b0013ca9cbe/landing-page-pc-export-43-20260130091114-vzijk.jpg",
+    "local": "assets/images/landing-page-pc-export-43-20260130091114-vzijk-2.jpg",
+    "bytes": 129515,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x750/697b235403260b0013ca9cbe/landing-page-pc-export-75-20260130095828-jvay0.jpg",
+    "local": "assets/images/landing-page-pc-export-75-20260130095828-jvay0-2.jpg",
+    "bytes": 116563,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x900/697b235403260b0013ca9cbe/landing-page-pc-export-36-20260130084933-vislc.jpg",
+    "local": "assets/images/landing-page-pc-export-36-20260130084933-vislc-2.jpg",
+    "bytes": 632140,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x750/697b235403260b0013ca9cbe/z7483595991813_ba76aaca526fa7ca5b99c1a7de260879-20260130080952-bcmja.jpg",
+    "local": "assets/images/z7483595991813_ba76aaca526fa7ca5b99c1a7de260879-20260130080952-bcmja-2.jpg",
+    "bytes": 7324,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x700/697b235403260b0013ca9cbe/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg",
+    "local": "assets/images/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm-3.jpg",
+    "bytes": 14964,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x350/697b235403260b0013ca9cbe/landing-page-pc-export-08-20260130070335-nvxo5.png",
+    "local": "assets/images/landing-page-pc-export-08-20260130070335-nvxo5-2.png",
+    "bytes": 3455,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x400/697b235403260b0013ca9cbe/landing-page-pc-export-09-20260130073334-co9_o.png",
+    "local": "assets/images/landing-page-pc-export-09-20260130073334-co9_o-2.png",
+    "bytes": 21742,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-10-20260130073811-q_s6x.jpg",
+    "local": "assets/images/landing-page-pc-export-10-20260130073811-q_s6x-2.jpg",
+    "bytes": 65684,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-11-20260130073839-g-clk.jpg",
+    "local": "assets/images/landing-page-pc-export-11-20260130073839-g-clk-2.jpg",
+    "bytes": 99362,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-12-20260130073849-d7yw8.jpg",
+    "local": "assets/images/landing-page-pc-export-12-20260130073849-d7yw8-2.jpg",
+    "bytes": 62975,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x600/697b235403260b0013ca9cbe/landing-page-pc-export-20-20260130080533-i2o5j.png",
+    "local": "assets/images/landing-page-pc-export-20-20260130080533-i2o5j-2.png",
+    "bytes": 283346,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x750/697b235403260b0013ca9cbe/z7483596052149_06b55a5fcc838b4f75bc89fa1cae9afb-20260130080839-gzzky.jpg",
+    "local": "assets/images/z7483596052149_06b55a5fcc838b4f75bc89fa1cae9afb-20260130080839-gzzky-3.jpg",
+    "bytes": 6114,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x350/697b235403260b0013ca9cbe/landing-page-pc-export-27-20260130082200-45uzb.png",
+    "local": "assets/images/landing-page-pc-export-27-20260130082200-45uzb-2.png",
+    "bytes": 16581,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x400/697b235403260b0013ca9cbe/landing-page-pc-export-23-20260130082337-k3z0o.png",
+    "local": "assets/images/landing-page-pc-export-23-20260130082337-k3z0o-2.png",
+    "bytes": 53440,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x400/697b235403260b0013ca9cbe/landing-page-pc-export-24-20260130082821-dxpgk.png",
+    "local": "assets/images/landing-page-pc-export-24-20260130082821-dxpgk-2.png",
+    "bytes": 46286,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x400/697b235403260b0013ca9cbe/landing-page-pc-export-25-20260130082827-mvwhw.png",
+    "local": "assets/images/landing-page-pc-export-25-20260130082827-mvwhw-2.png",
+    "bytes": 49404,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s400x400/697b235403260b0013ca9cbe/landing-page-pc-export-26-20260130082830-bxaah.png",
+    "local": "assets/images/landing-page-pc-export-26-20260130082830-bxaah-2.png",
+    "bytes": 43075,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x1200/697b235403260b0013ca9cbe/landing-page-pc-export-35-20260130083347-zr-vk.png",
+    "local": "assets/images/landing-page-pc-export-35-20260130083347-zr-vk-4.png",
+    "bytes": 638243,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s1100x1000/697b235403260b0013ca9cbe/landing-page-pc-export-35-20260130083347-zr-vk.png",
+    "local": "assets/images/landing-page-pc-export-35-20260130083347-zr-vk-5.png",
+    "bytes": 1019928,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x400/697b235403260b0013ca9cbe/landing-page-pc-export-28-20260130083652-tlzr2.png",
+    "local": "assets/images/landing-page-pc-export-28-20260130083652-tlzr2-2.png",
+    "bytes": 19631,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-29-20260130084014-eemv_.jpg",
+    "local": "assets/images/landing-page-pc-export-29-20260130084014-eemv_-2.jpg",
+    "bytes": 49051,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-30-20260130084205-aj6cv.jpg",
+    "local": "assets/images/landing-page-pc-export-30-20260130084205-aj6cv-2.jpg",
+    "bytes": 51671,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-31-20260130084401-dzirf.jpg",
+    "local": "assets/images/landing-page-pc-export-31-20260130084401-dzirf-2.jpg",
+    "bytes": 57493,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-32-20260130084452-omweb.jpg",
+    "local": "assets/images/landing-page-pc-export-32-20260130084452-omweb-2.jpg",
+    "bytes": 54760,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x450/697b235403260b0013ca9cbe/landing-page-pc-export-33-20260130084620-2poyk.jpg",
+    "local": "assets/images/landing-page-pc-export-33-20260130084620-2poyk-2.jpg",
+    "bytes": 59287,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x400/697b235403260b0013ca9cbe/landing-page-pc-export-34-20260130084742-fq7pr.jpg",
+    "local": "assets/images/landing-page-pc-export-34-20260130084742-fq7pr-2.jpg",
+    "bytes": 36163,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-38-20260130085924-8u5-a.jpg",
+    "local": "assets/images/landing-page-pc-export-38-20260130085924-8u5-a-2.jpg",
+    "bytes": 62445,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-39-20260130085924-j5vmn.jpg",
+    "local": "assets/images/landing-page-pc-export-39-20260130085924-j5vmn-2.jpg",
+    "bytes": 45815,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x450/697b235403260b0013ca9cbe/landing-page-pc-export-40-20260130085937-y9gly.jpg",
+    "local": "assets/images/landing-page-pc-export-40-20260130085937-y9gly-2.jpg",
+    "bytes": 37755,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-41-20260130085924-k1tub.jpg",
+    "local": "assets/images/landing-page-pc-export-41-20260130085924-k1tub-2.jpg",
+    "bytes": 57191,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x600/697b235403260b0013ca9cbe/landing-page-pc-export-35-20260130083347-zr-vk.png",
+    "local": "assets/images/landing-page-pc-export-35-20260130083347-zr-vk-6.png",
+    "bytes": 442879,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s550x400/697b235403260b0013ca9cbe/landing-page-pc-export-42-20260130091030-xenys.png",
+    "local": "assets/images/landing-page-pc-export-42-20260130091030-xenys-2.png",
+    "bytes": 39672,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x700/697b235403260b0013ca9cbe/landing-page-pc-export-45-20260130091503-7ad6-.jpg",
+    "local": "assets/images/landing-page-pc-export-45-20260130091503-7ad6--2.jpg",
+    "bytes": 116756,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x350/697b235403260b0013ca9cbe/landing-page-pc-export-44-20260130091621-_jrvc.png",
+    "local": "assets/images/landing-page-pc-export-44-20260130091621-_jrvc-2.png",
+    "bytes": 23717,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x700/697b235403260b0013ca9cbe/landing-page-pc-export-35-20260130083347-zr-vk.png",
+    "local": "assets/images/landing-page-pc-export-35-20260130083347-zr-vk-7.png",
+    "bytes": 576141,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x400/697b235403260b0013ca9cbe/landing-page-pc-export-46-20260130091759-c9nqv.png",
+    "local": "assets/images/landing-page-pc-export-46-20260130091759-c9nqv-2.png",
+    "bytes": 13127,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x500/697b235403260b0013ca9cbe/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg",
+    "local": "assets/images/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm-4.jpg",
+    "bytes": 10086,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x550/697b235403260b0013ca9cbe/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm.jpg",
+    "local": "assets/images/z7483595954971_be64cd45291d58c9cad10bcc82cceb7f-20260130080731-7htdm-5.jpg",
+    "bytes": 11484,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x350/697b235403260b0013ca9cbe/landing-page-pc-export-51-20260130092503-gu_gq.png",
+    "local": "assets/images/landing-page-pc-export-51-20260130092503-gu_gq-2.png",
+    "bytes": 4325,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-53-20260130092637-gpxie.jpg",
+    "local": "assets/images/landing-page-pc-export-53-20260130092637-gpxie-2.jpg",
+    "bytes": 135808,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-52-20260130092637-lnspt.jpg",
+    "local": "assets/images/landing-page-pc-export-52-20260130092637-lnspt-2.jpg",
+    "bytes": 121830,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-54-20260130092654-wthqg.jpg",
+    "local": "assets/images/landing-page-pc-export-54-20260130092654-wthqg-2.jpg",
+    "bytes": 133294,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x350/697b235403260b0013ca9cbe/landing-page-pc-export-55-20260130092801-xjyfl.png",
+    "local": "assets/images/landing-page-pc-export-55-20260130092801-xjyfl-2.png",
+    "bytes": 3428,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-56-20260130092918-whqjy.jpg",
+    "local": "assets/images/landing-page-pc-export-56-20260130092918-whqjy-2.jpg",
+    "bytes": 110001,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-57-20260130092940-oyvux.jpg",
+    "local": "assets/images/landing-page-pc-export-57-20260130092940-oyvux-2.jpg",
+    "bytes": 91466,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-58-20260130093013-cd0qz.jpg",
+    "local": "assets/images/landing-page-pc-export-58-20260130093013-cd0qz-2.jpg",
+    "bytes": 121035,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x350/697b235403260b0013ca9cbe/landing-page-pc-export-59-20260130093041-qvyvo.png",
+    "local": "assets/images/landing-page-pc-export-59-20260130093041-qvyvo-2.png",
+    "bytes": 3829,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-62-20260130093126-wi8xl.jpg",
+    "local": "assets/images/landing-page-pc-export-62-20260130093126-wi8xl-2.jpg",
+    "bytes": 79302,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-61-20260130093126-ljgu8.jpg",
+    "local": "assets/images/landing-page-pc-export-61-20260130093126-ljgu8-2.jpg",
+    "bytes": 78358,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s450x400/697b235403260b0013ca9cbe/landing-page-pc-export-60-20260130093126-8eln9.jpg",
+    "local": "assets/images/landing-page-pc-export-60-20260130093126-8eln9-2.jpg",
+    "bytes": 76949,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x400/697b235403260b0013ca9cbe/landing-page-pc-export-63-20260130093249-pn9d8.png",
+    "local": "assets/images/landing-page-pc-export-63-20260130093249-pn9d8-2.png",
+    "bytes": 16554,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x550/697b235403260b0013ca9cbe/landing-page-pc-export-64-20260130093327-_ofps.jpg",
+    "local": "assets/images/landing-page-pc-export-64-20260130093327-_ofps-2.jpg",
+    "bytes": 86642,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x550/697b235403260b0013ca9cbe/landing-page-pc-export-65-20260130093527-gm-8z.jpg",
+    "local": "assets/images/landing-page-pc-export-65-20260130093527-gm-8z-2.jpg",
+    "bytes": 73627,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x500/697b235403260b0013ca9cbe/landing-page-pc-export-66-20260130093754-b1wir.jpg",
+    "local": "assets/images/landing-page-pc-export-66-20260130093754-b1wir-2.jpg",
+    "bytes": 94655,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s500x500/697b235403260b0013ca9cbe/landing-page-pc-export-67-20260130093903-7zavw.jpg",
+    "local": "assets/images/landing-page-pc-export-67-20260130093903-7zavw-2.jpg",
+    "bytes": 68043,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x500/697b235403260b0013ca9cbe/landing-page-pc-export-68-20260130094019-pzpqr.jpg",
+    "local": "assets/images/landing-page-pc-export-68-20260130094019-pzpqr-2.jpg",
+    "bytes": 176837,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x600/697b235403260b0013ca9cbe/landing-page-mobile-01-20260304101009-fw-ml.jpg",
+    "local": "assets/images/landing-page-mobile-01-20260304101009-fw-ml-2.jpg",
+    "bytes": 205153,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s750x650/697b235403260b0013ca9cbe/landing-page-mobile-02-20260304101100-ehuza.jpg",
+    "local": "assets/images/landing-page-mobile-02-20260304101100-ehuza-2.jpg",
+    "bytes": 260416,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/s420x437/57b167c9ca57d39c18a1c57c/fopr.jpg",
+    "local": "assets/images/fopr-2.jpg",
+    "bytes": 5822,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/ladiui/icons/social/facebook.svg",
+    "local": "assets/images/facebook.svg",
+    "bytes": 672,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/ladiui/icons/social/youtube.svg",
+    "local": "assets/images/youtube.svg",
+    "bytes": 1021,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/ladiui/icons/social/zalo.svg",
+    "local": "assets/images/zalo.svg",
+    "bytes": 6157,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/ladiui/icons/social/phone-call.svg",
+    "local": "assets/images/phone-call.svg",
+    "bytes": 1011,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/v5/source/ladipagev3.min.js?v=1773374879264",
+    "local": "assets/images/img-155.jpg",
+    "bytes": 591883,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/v5/source/html5shiv.min.js?v=1773374879264",
+    "local": "assets/images/img-156.jpg",
+    "bytes": 2636,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/v5/source/respond.min.js?v=1773374879264",
+    "local": "assets/images/img-157.jpg",
+    "bytes": 4377,
+    "status": "ok"
+  },
+  {
+    "source": "https://w.ladicdn.com/v5/source/",
+    "status": "http-404"
+  }
+]
