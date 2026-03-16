@@ -117,7 +117,7 @@ a{text-decoration:none;color:inherit}
 .partner-logos img{height:46px;object-fit:contain;justify-self:center}
 .lead-footer{background:linear-gradient(90deg,#1fa9b0,#13698b);padding:24px 0 30px}
 .lead-footer-wrap{display:flex;justify-content:center}
-.lead-box{width:min(560px,96vw);background:rgba(0,0,0,.15);padding:16px;border:1px solid rgba(255,255,255,.3)}
+.lead-box{width:min(560px,96vw);background:rgba(0,0,0,.18);padding:18px;border:1px solid rgba(255,255,255,.3);border-radius:10px;box-shadow:0 12px 28px rgba(0,0,0,.2)}
 .lead-box h3{margin:0 0 10px;text-align:center;color:#fff;font-size:28px;font-weight:500}
 .footer-form input,.footer-form textarea{width:100%;margin-bottom:8px;padding:10px;border:none;background:#e9f6f6}
 .footer-form textarea{height:64px;resize:vertical}
@@ -141,4 +141,6 @@ a{text-decoration:none;color:inherit}
   .thumb-row img,.gallery-3.equal img,.gallery-3.plans img{height:220px}
   .experience-grid article,.news-grid article{grid-template-columns:1fr}
   .news-grid img,.map-pair img{height:220px}
+}
+-pair img{height:220px}
 }
