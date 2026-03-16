@@ -15,6 +15,15 @@ a{text-decoration:none;color:inherit}
 .slice-block{padding:42px 0}
 .patterned{background:linear-gradient(180deg,#fbfbfb,#f4f4f4)}
 
+/* precision pass: per-slice rhythm */
+#slice2{padding-top:48px;padding-bottom:44px}
+#slice3{padding-top:50px;padding-bottom:50px}
+#slice4{padding-top:46px;padding-bottom:46px}
+#slice5{padding-top:52px;padding-bottom:52px}
+#slice6{padding-top:44px;padding-bottom:44px}
+#slice7{padding-top:50px;padding-bottom:50px}
+#slice8{padding-top:44px}
+
 .topbar{background:linear-gradient(90deg,#2cb7b5,#23a4bf);border-bottom:1px solid rgba(255,255,255,.35);position:sticky;top:0;z-index:50;box-shadow:0 4px 10px rgba(0,0,0,.12)}
 .nav{height:50px;display:flex;align-items:center;justify-content:space-between;gap:18px}
 .brand-logo{height:32px;width:auto;object-fit:contain;filter:drop-shadow(0 1px 1px rgba(0,0,0,.15))}
